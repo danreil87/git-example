@@ -1,0 +1,23 @@
+{
+  "name": "git-example",
+  "version": "1.0.0",
+  "description": "Git example for team",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danreil87/git-example.git"
+  },
+  "author": "Dan Reil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danreil87/git-example/issues"
+  },
+  "homepage": "https://github.com/danreil87/git-example#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "typescript": "^4.4.4"
+  }
+}
